@@ -1,18 +1,10 @@
 ### Hi there 👋
 This is my blog -> https://maverickpeter.github.io/
 
-<!--
-**MaverickPeter/MaverickPeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on multi-robot SLAM
+- 🌱 I’m currently learning convex optimization
+- 👯 I’m looking to collaborate on heterogeneous measurement matching
+- 💬 Ask me about SLAM
 - 📫 How to reach me: xuechengxu@zju.edu.cn
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 [![MaverickPeter's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaverickPeter)](https://github.com/MaverickPeter/github-readme-stats)
